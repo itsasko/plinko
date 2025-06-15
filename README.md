@@ -24,7 +24,7 @@ A simple physics-based **Plinko game** built with **Unity**. Colored balls fall 
 ---
 ### 🎥 Gameplay Demo
 
-[▶ Watch recording (MP4)](recordings/plinko_recording.mp4)
+![Plinko in Action](recordings/plinko_record.gif)
 
 ---
 
